@@ -28,4 +28,8 @@ public class Cuenta {
         System.out.println("Comision Mensual: " + comisionMensual);
     }
     
+    public void consignar(float cantidad) {
+        saldo = saldo + cantidad;
+    }
+    
 }
