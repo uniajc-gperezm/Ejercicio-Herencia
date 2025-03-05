@@ -18,5 +18,4 @@ public class EjercicioHerencia {
         
         System.out.println("Hola mundo 2");
     }
-    
 }
